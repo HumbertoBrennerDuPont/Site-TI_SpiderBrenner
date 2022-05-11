@@ -1,0 +1,45 @@
+titulo {
+color: red;
+align-self: center;
+padding-top: 0 20px;
+font-size: 30px;
+}
+
+header{
+
+    padding-top: 100px;
+    padding-bottom: 40px;
+
+}
+
+p{
+    color: white;
+    font-size: 17px;
+}
+
+
+p2{
+  color: white;
+  font-size: 20px;
+}
+
+
+#coluna{
+    background-color: black;
+    width:200px;
+    height:1000px;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    border: 3px solid green;
+}
+
+#coluna2{
+    background-color: black;
+    width:200px;
+    height:1000px;
+    float: right;
+    margin: 5px;
+    padding: 5px;
+    border: 3px solid green;
+}

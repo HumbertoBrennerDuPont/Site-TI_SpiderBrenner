@@ -1,0 +1,21 @@
+nav{
+    position: absolute;
+    margin: 0;
+
+}
+
+nav li{
+    display: inline;
+
+
+}
+nav a{
+    text-transform: uppercase;
+    color:orangered
+    font-size 16px;
+}
+
+nav a:hover {
+color: red;
+text-decoration: underline;
+}

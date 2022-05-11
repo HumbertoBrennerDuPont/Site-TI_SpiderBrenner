@@ -1,0 +1,30 @@
+body{
+    background: url(images/logospider.jpg)
+}
+header{
+    background: url(images/spiderman-cabecalho.jpg)
+}
+footer{
+    background-color: black;
+    text-align: center;
+    text-color: white;
+    padding: 50px 0;
+    
+    clear: both;
+    border: 3px solid green;
+}
+a{
+    color: orangered;
+}
+a:hover {
+color: blue;
+}
+
+p1{
+    
+    color: white;
+    font-size: xx-large;
+    font-weight: bold;
+    padding: 20px;
+    margin:auto;
+}
